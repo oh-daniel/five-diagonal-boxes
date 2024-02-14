@@ -1,0 +1,47 @@
+/* 
+Create 5 boxes diagonally using the box-model and the tag <div>, and have their borders double as you go down the page.
+Write any text you'd like in each of the boxes with all the padding attributes set to 10px. 
+See examples from class 2 lecture on github. Submit the deployed website like you did for assignment 1. */
+
+.box1{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+.box2{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin-left: 128px;
+    border: 10px solid black;
+}
+
+.box3{
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin-left: 267px;
+    border: 20px solid black;
+}
+
+.box4{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin-left: 425px;
+    border: 40px solid black;
+}
+
+.box5{background-color: yellow;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin-left: 624px;
+    border: 80px solid black;
+}
