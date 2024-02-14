@@ -45,3 +45,7 @@ See examples from class 2 lecture on github. Submit the deployed website like yo
     margin-left: 624px;
     border: 80px solid black;
 }
+
+body{
+    margin: 0px;
+}
